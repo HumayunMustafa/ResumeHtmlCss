@@ -18,6 +18,10 @@ header{
     background-color: rgba(0,0,0,0.5);
 }
 
+section{
+    padding-top: 5px;;
+}
+
 .format{
     margin: 0 auto;
     padding:0 5px;
