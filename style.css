@@ -22,6 +22,11 @@ section{
     padding-top: 5px;;
 }
 
+p[id="flex-display"]{
+    display: flex;
+    justify-content: space-between;
+}
+
 .format{
     margin: 0 auto;
     padding:0 5px;
@@ -61,4 +66,8 @@ section{
     padding-top: 0;
     margin-top:-2px;
     border-bottom: 2px solid black;
+}
+
+.flext-display{
+    display:flex;
 }
